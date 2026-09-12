@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sébastien 👋
 
-<!--
-**s-riviere/s-riviere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at **Télécom Paris** (Exchange at **KTH Royal Institute of Technology**)  
+🎯 Looking for a **6-month internship** starting **Feb 2027** (France / Switzerland)  
+🛠️ Focus: **Distributed Systems**, **Data-Intensive Applications**, **DevOps**
 
-Here are some ideas to get you started:
+📫 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/riviere-sebastien) | [Email](mailto:riviere.sebastien.pro@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Key Projects
+
+* **[Common Crawl MapReduce Engine](https://github.com/s-riviere/commoncrawl-mapreduce-engine)** – Custom distributed MapReduce engine in Python deployed on bare-metal machines. Features explicit Map-Shuffle-Reduce phases, fault recovery, and automated SSH orchestration without Hadoop or Docker.
+* **[La Traque](https://github.com/s-riviere/la-traque)** – Real-time outdoor survival game platform with live geolocation tracking, a shrinking play area, and supervisor controls. Built with React Native, Next.js, Node.js, and Socket.io.
